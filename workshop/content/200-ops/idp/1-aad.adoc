@@ -1,3 +1,9 @@
+:preconfigure_aad:%preconfigure_aad%
+
+Preconfigure AAD?
+{preconfigure_aad}
+
+
 = Azure AD for Cluster authentication
 
 Authentication to your cluster is best managed via Azure Active Directory.
